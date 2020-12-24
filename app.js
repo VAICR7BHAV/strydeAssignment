@@ -14,8 +14,8 @@ var cookieParser = require('cookie-parser');
 var pool=mysql.createPool({
     host:'localhost',
     database:'stryde',
-    user:'vaicr7bhav',
-    password:'Cipcal@d3'
+    user:'******',
+    password:'******'
 });
 
 /************************* Setting up the express ******************************************/
